@@ -1,0 +1,19 @@
+# Environment files
+backend/.env
+frontend/.env
+frontend/.env.txt
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+
+# Build folders
+dist/
+build/
+
+# VS Code
+.vscode/
