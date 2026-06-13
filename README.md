@@ -22,8 +22,7 @@ cp .env.example .env            # fill in your keys
 python main.py
 ```
 
-Server runs at: http://localhost:5000
-
+Server runs at: https://roamly-travel-iota.vercel.app/
 ## API Endpoints
 
 | JS Route            | Python Route          | Method |
